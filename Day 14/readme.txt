@@ -1,0 +1,1 @@
+Today, I revised the concept of linked lists and solved some sql questions.
